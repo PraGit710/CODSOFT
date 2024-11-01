@@ -4,6 +4,7 @@ using namespace std;
 int main(){
     cout<<"\n"<<endl; 
     cout<<"===================================================== ~ Simple Calculator ~ ==================================================="<<endl;
+    cout<<"made by PRATIM PATHAK"<<endl;
     cout<<"\n"<<endl;
     char ch;cout<<"press c for calculate or any other keys to quit : ";
     cin>>ch;
@@ -38,8 +39,5 @@ int main(){
         cout<<"press c for calculate again or any other keys to quit : ";
         cin>>ch;
     }
-    
-    cout<<"made by PRATIM PATHAK"<<endl;
-    
     
 }
